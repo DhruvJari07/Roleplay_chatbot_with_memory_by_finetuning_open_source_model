@@ -1,4 +1,4 @@
-# finetune_model_for_roleplay_chatbot_with_memory
+# Roleplay_chatbot_with_memory_by_finetuning_open_source_model
 
 This roleplay chatbot is served by a model, created by finetuning an open-sourced model on custom conversation data between Girlfriend & Boyfriend. 
 
